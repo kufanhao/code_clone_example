@@ -7,13 +7,13 @@ import Timestamp from "./timestampcomp/Timestamp";
 import Footer from "./components/Footer";
 import PlaylistCTA from "./components/PlaylistCTA";
 
-
+// hey this is cool!
 const LandingPage = () => {
 
 
 
 
-    
+
   return (
     <div className="landing-page-container">
       <div className="landing-content-wrapper">
